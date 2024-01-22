@@ -1,4 +1,4 @@
-baseURL = "http://butirandebu.netlify.app/"
+baseURL = "https://butirandebu.netlify.app/themes/blogge-hugo-theme/"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
