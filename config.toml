@@ -34,7 +34,7 @@ themeDir = "themes/blogge-hugo-theme"
   linkedinUsername = "mary_astor"
   blogTitle = "Articles"
   blogSubTitle = "View the latest news on Blogger"
-  trendingBlogIcon = "static/images/blog/icon.svg"
+  trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below
   fabformURL  = "9AJk8ro"
