@@ -1,10 +1,11 @@
+#baseURL = "http://localhost:1313/"
 baseURL = "https://butirandebu.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
-title = "Blogge | Personal Blog Template"
+title = "Butiran Debu | Personal Blog"
 theme = "blogge-hugo-theme"
-themeDir = "themes/blogge-hugo-theme"
+#themeDir = "themes/blogge-hugo-theme"
 
 [menu]
   [[menu.main]]
