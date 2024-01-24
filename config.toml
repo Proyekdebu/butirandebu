@@ -23,7 +23,7 @@ themeDir = "themes/blogge-hugo-theme"
 [params]
   summarylength = 80
   logo = "images/logo.svg"
-  author = "Mary Astor"
+  author = "Butiran Debu"
   authorThumb = "images/author.png"
   thumbnail = "images/author.png"
   authorAddress = "Lorem 142 Str., 2352, Ipsum, State, USA"
