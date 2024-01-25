@@ -1,5 +1,5 @@
 #baseURL = "http://localhost:1313/"
-baseURL = "https://butirandebu.netlify.app/"
+baseURL = "https://butirandebu.my.id/"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
