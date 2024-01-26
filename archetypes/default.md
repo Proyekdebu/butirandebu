@@ -3,9 +3,11 @@ draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 updated = {{ .Date }}
-featured = false
+tranding = false
+tags = "Artikel"
+readTime = 
 
-thumbnail = "images/blog/{{ .BaseFileName }}/{{ .BaseFileName."
-featureImage = "images/blog/{{ .BaseFileName }}/{{ .BaseFileName }}-detail."
+thumbnail = "images/blog/{{ .BaseFileName }}/{{ .BaseFileName}}.jpeg"
+featureImage = "images/blog/{{ .BaseFileName }}/{{ .BaseFileName }}.jpeg"
 
 +++
