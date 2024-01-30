@@ -37,7 +37,7 @@
             </li>
             <li>
               <i class="fa fa-clock-o"></i>
-              {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }} read
+              {{ .PublishDate.Format "January 2, 2006" }} - {{ .ReadingTime }} min read
             </li>
           </ul>
           <div class="feature-image">
@@ -56,7 +56,7 @@
                 {{ .Title }}
               </a>
               <i class="fa fa-clock-o"></i>
-              {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }}
+              {{ .PublishDate.Format "January 2, 2006" }} - {{ .ReadingTime }} min read
             </li>
             {{ end }}
             {{ with .Site.RegularPages.Next . }}
@@ -65,7 +65,7 @@
                 {{ .Title }}
               </a>
               <i class="fa fa-clock-o"></i>
-              {{ .PublishDate.Format "January 2, 2006" }} - {{ .Params.readTime }}
+              {{ .PublishDate.Format "January 2, 2006" }} - {{ .ReadingTime }} min read
             </li>
             {{ end }}
           </ul>
