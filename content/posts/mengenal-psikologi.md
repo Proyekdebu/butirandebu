@@ -30,7 +30,7 @@ Mempelajari psikologi bisa membantumu mengenali seseorang dan perilakunya, dan m
 Ketika kamu baru memulai. Pahamilah bahwa psikologi pada dasarnya tentang perilaku. Kamu tidak perlu mengetahui semua perbedaan cara yang ada untuk menjelaskan perilaku secara langsung.
 Tapi semakin banyak kamu mempelajarinya, kamu akan menemukan bahwa kamu dengan cepat mampu  menempatkan penjelasan perilaku dalam kerangka psikologi yang sesuai.
 
-> Saya kira psikologi merupakan hal yang paling menarik. Itu merupakan hal paling menarik karena tentang kita, tentang hal terpenting dan aspek intim dari hidup kita. Tentang bahasa dan persepsi, tentang ingatan kita, tentang mimpi kita, cinta, benci, tentang moralitas, sensasi kita, tentang benar dan salah, tentang ketika adanya keslahan seperti depresi, kecemasan kita, tenang kebahagiaan, tentang semua hal yang penting bagi kita.<br>**Paul Bloom Ph.D,**
+> Saya kira psikologi merupakan hal yang paling menarik. Itu merupakan hal paling menarik karena tentang kita, tentang hal terpenting dan aspek intim dari hidup kita. Tentang bahasa dan persepsi, tentang ingatan kita, tentang mimpi kita, cinta, benci, tentang moralitas, sensasi kita, tentang benar dan salah, tentang ketika adanya keslahan seperti depresi, kecemasan kita, tenang kebahagiaan, tentang semua hal yang penting bagi kita. <br>**Paul Bloom Ph.D,**
 
 Kesalahpahaman umum tentang psikologi yaitu bahwa psikologi sinonim dengan psikiater. Tidak ! itu tidak sama.
 Psikiater merupakan seorang ahli medis (semua psikiater memiliki gelar medis) yang pada dasarnya berkaitan dengan gangguan mental.
@@ -88,7 +88,7 @@ Dibawah ini beberapa manfaat belajar psikologi
 
 Ketika kamu belajar tentang bagaiman proses perkembangang, kepribadian, dan beragam faktor seperti sosial dan budaya mempengaruhi perilaku, kamu mungkin mendapatkan pemahaman lebih dalam tentang banyaknya pengaruh yang berdampak pada hidupmu.
 
-## Meningkatkan pemahaman tentang orang lain
+### Meningkatkan pemahaman tentang orang lain
 
 Jika lain kali seseorang berperilaku dengan cara tertentu, kamu mungkin mampu memahami lebih baik pengaruh dan motivasi dibalik tindakan mereka.
 
@@ -96,7 +96,7 @@ Jika lain kali seseorang berperilaku dengan cara tertentu, kamu mungkin mampu me
 
 Mempelajari subjek seperti emosi, bahasa dan bahasa tubuh, dapat membantumu meningkatkan kemampuan komunikasi interpersonal kamu. Dengan mempelajari lebih banyak tentang hal ini, kamu bisa mendapatkan pemahaman lebih baik mengenai orang lain dan apa yang sedang mereka coba katakan.
 
-## Mengembangkan kemampuan berpikir kritis
+### Mengembangkan kemampuan berpikir kritis
 
 Ketika kamu belajar psikologi, kamu akan belajar lebih banyak tentang topik seperti metode ilmiah, membuat keputusan, dan menyelesaikan masalah, yang mana semua ini bisa membantu kemampuan berpikir kritis kamu pada beragam persoalan.
 
