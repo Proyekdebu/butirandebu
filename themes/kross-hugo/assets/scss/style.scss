@@ -1,0 +1,37 @@
+// Color Variables
+$color-primary: #41228e;
+$color-secondary: #2bfdff;
+$text-color: #4c4c4c;
+$text-dark: #000;
+$text-light: #999;
+$body-bg: #fff;
+$border-color: #c7c7c7;
+$black: #000;
+$white: #fff; 
+$light: #eee;
+$gray: #eaeaea;
+
+
+// Font Variables
+$font-size: 16px;
+$font-scale: 1.25;
+$font-primary: 'Poppins', sans-serif;
+$font-secondary: 'Lato', sans-serif;
+$font-icon: 'Font Awesome 5 Free';
+$font-primary: 'Poppins';
+
+@import 'templates/bootstrap'; 
+
+@import "mixins";
+
+@import "typography";
+
+@import "buttons";
+
+@import "common";
+
+@import "templates/navigation";
+
+@import "templates/main";
+
+@import "templates/footer"; 

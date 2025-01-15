@@ -1,45 +1,64 @@
-#baseURL = "http://localhost:1313/"
-baseURL = "https://butirandebu.my.id/"
-languageCode = "en-us"
-paginate = 6
-summarylength = 10
-title = "Butiran Debu | Personal Blog"
-theme = "blogge-hugo-theme"
-#themeDir = "themes/blogge-hugo-theme"
+# DON'T REMOVE THIS FILE.
+# This file is for render site varibles and plugins
+#
+# The actual configuration files are stored in the `config/_default/` folder.
 
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url= ""
-    weight= 1
-  [[menu.main]]
-    name = "About"
-    url= "about"
-    weight= 2
-  [[menu.main]]
-    name = "Contact"
-    url= "contact"
-    weight= 3
+######################### site variables ##############################
+# customize your color and font from here.
+[params.variables]
+color_primary = "#41228e"
+color_secondary = "#2bfdff" 
+body_color = "#fff"
+border_color = "#c7c7c7"
+black = "#000"
+white = "#fff"
+light = "#eee"
+gray = "#eaeaea"
+text_color = "#4c4c4c"
+text_dark = "#000"
+text_light = "#999999"
 
-[params]
-  summarylength = 80
-  logo = "images/logo.svg"
-  author = "Butiran Debu"
-  authorThumb = "images/author.png"
-  thumbnail = "images/author.png"
-  authorAddress = "Lorem 142 Str., 2352, Ipsum, State, USA"
-  authorPhone = "+33-257634 534"
-  instaUsername = "#"
-  facebookUsername = "#"
-  twitterUsername = "#"
-  linkedinUsername = "#"
-  blogTitle = "Articles"
-  blogSubTitle = "View the latest Articles on Butiran Debu"
-  trendingBlogIcon = "images/blog/icon.svg"
-  # Replace the third party URL/API with yours
-  # We're using formspree.io for form handling, paste your formspree url below
-  fabformURL  = "9AJk8ro"
-  googleMapAPI = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+# font variables
+# base font size for full website, 
+font_size = "16px" # default is 16px
 
-[taxonomies]
-  tag = "tags"
+# Font Scale Sizes
+# "minorSecond": 1.067,
+# "majorSecond": 1.125,
+# "minorThird": 1.2,
+# "majorThird": 1.25,
+# "perfectFourth": 1.333,
+# "augmentedFourth": 1.414,
+# "perfectFifth": 1.5,
+# "goldenRatio": 1.618
+font_scale = "1.205" # default is "majorThird": 1.25
+
+# go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
+# example: "Work+Sans:wght@400;500;600"
+font_icon = "themify" # https://themify.me/themify-icons
+font_primary = "Roboto:wght@400" 
+font_primary_type = "sans-serif" # [serif/sans-serif]
+font_secondary = "Playfair+Display:wght@700" 
+font_secondary_type = "serif" # [serif/sans-serif]
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/themify-icons/icons.css"
+[[params.plugins.css]]
+link = "plugins/swiper/swiper-bundle.css"
+
+# JS Plugins
+# [[params.plugins.js]]
+# link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/cookie.js"
+[[params.plugins.js]]
+link = "plugins/lazy-loader.js" 
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/swiper/swiper-bundle.js"
+[[params.plugins.js]]
+link = "plugins/webfont/webfont-loader-2.js" 

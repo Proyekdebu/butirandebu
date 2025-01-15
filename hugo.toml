@@ -1,0 +1,6 @@
+# baseURL = "https://butirandebu.my.id/"
+baseURL = 'https://example.org/'
+languageCode = 'in-in'
+title = 'My New Hugo Site'
+
+theme = "kross-hugo"
