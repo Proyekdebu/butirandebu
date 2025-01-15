@@ -1,5 +1,5 @@
-# baseURL = "https://butirandebu.my.id/"
-baseURL = 'https://example.org/'
+baseURL = "https://butirandebu.my.id/"
+# baseURL = 'https://example.org/'
 languageCode = 'in-in'
 title = 'My New Hugo Site'
 
